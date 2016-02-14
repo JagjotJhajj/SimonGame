@@ -1,1 +1,1 @@
-# SimonGame
+# A Simon game created for using with an Arduino Uno
